@@ -18,4 +18,4 @@
    
 [Accès à une page externe](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-![Photo de Linus](/images/linus.jpeg "Linus, créateur du noyau Linux")
+<img src="./images/linus.jpeg" width="50" alt="photo de Linus, créateur de Linux">
