@@ -40,3 +40,8 @@ Passez sur l'image !
       
 
 <div style="min-height: 17px; margin: 4px 0 2px; margin-bottom: 2px; font-size: 12px; color: #000000; font-size: 14px; padding: 16px; margin-bottom: 24px; border-color: #000000; background-color: rgba(84,174,255,0.4); border-radius: 4px; border: 1px solid #000000;">Boite spéciale avec CSS</div>
+
+
+<iframe src="http://www.youtube.com/embed/W7qWa52k-nE" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+
