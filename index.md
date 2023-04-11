@@ -28,39 +28,10 @@ Passez sur l'image !
 | Pommes    | 1.99     | 739      |
 | Bananas   | 1.89     | 6        |
 
-<table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th style="text-align: center">Prix</th>
-      <th style="text-align: right">Stock</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Pommes</td>
-      <td style="text-align: center">1.99</td>
-      <td style="text-align: right">739</td>
-    </tr>
-    <tr>
-      <td>Bananas</td>
-      <td style="text-align: center">1.89</td>
-      <td style="text-align: right">6</td>
-    </tr>
-  </tbody>
-</table>
-
 <div style="min-height: 17px; margin: 4px 0 2px; margin-bottom: 2px; font-size: 12px; color: #000000; font-size: 14px; padding: 16px; margin-bottom: 24px; border-color: #000000; background-color: rgba(84,174,255,0.4); border-radius: 4px; border: 1px solid #000000;">Boite spéciale avec CSS</div>
 
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
 
 
