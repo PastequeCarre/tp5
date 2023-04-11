@@ -28,4 +28,4 @@ Passez sur l'image !
 | Pommes    | 1.99     | 739      |
 | Bananas   | 1.89     | 6        |
 
-<object data="http://www.youtube.com/embed/W7qWa52k-nE" width="560" height="315"></object>
+<iframe src="http://www.youtube.com/embed/W7qWa52k-nE" width="560" height="315" frameborder="0" allowfullscreen></iframe>
