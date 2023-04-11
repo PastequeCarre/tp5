@@ -18,4 +18,4 @@
    
 [Accès à une page externe](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Photo de Linus](/images/linus.jpeg "Linus, créateur du noyau Linux")
