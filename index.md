@@ -20,4 +20,4 @@
 
 <img src="./images/linus.jpeg" width="100" alt="photo de Linus, créateur de Linux">
 
-<img src="https://img.20mn.fr/NoQBW3SwTxy_laVhOMBH5ik/1200x768_les-chiens-de-race-rottweiller">
+<img width="300" src="https://img.20mn.fr/NoQBW3SwTxy_laVhOMBH5ik/1200x768_les-chiens-de-race-rottweiller" alt="Photo de chien mignon">
