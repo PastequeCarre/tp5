@@ -18,6 +18,6 @@
    
 [Accès à une page externe](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-<img src="./images/linus.jpeg" width="100" alt="photo de Linus, créateur de Linux">
+<img src="./images/linus.jpeg" width="100" alt="photo de Linus, créateur de Linux" caption="Photo de Linus">
 
-<img width="300" src="https://img.20mn.fr/NoQBW3SwTxy_laVhOMBH5ik/1200x768_les-chiens-de-race-rottweiller" alt="Photo de chien mignon">
+<img width="300" src="https://img.20mn.fr/NoQBW3SwTxy_laVhOMBH5ik/1200x768_les-chiens-de-race-rottweiller" alt="Photo de chien mignon" caption="Photo de chien mignon">
