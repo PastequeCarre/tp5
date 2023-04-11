@@ -1,27 +1,12 @@
 <head>
   <style>
     .note {
-      min-height: 17px;
-      margin: 4px 0 2px;
-      margin-bottom: 2px;
-      font-size: 12px;
-      color: #000000;
-      font-size: 14px !important;
-      padding: 16px !important;
-      margin-bottom: 24px !important;
-      border-color: #000000;
-      !important: ;
-      background-color: rgba(84,174,255,0.4);
-      !important: ;
-      border-radius: 4px !important;
-      border: 1px solid #000000;
+      
+      
       !important: ;
     }
   </style>
 </head>
-
-
-
 
 # Site Web du TP5
 
@@ -52,5 +37,6 @@ Passez sur l'image !
 | --------- | -------- | -------- |
 | Pommes    | 1.99     | 739      |
 | Bananas   | 1.89     | 6        |
+      
 
-<div class="note">Boite spéciale avec CSS</div>
+<div style="min-height: 17px; margin: 4px 0 2px; margin-bottom: 2px; font-size: 12px; color: #000000; font-size: 14px; padding: 16px; margin-bottom: 24px; border-color: #000000; background-color: rgba(84,174,255,0.4); border-radius: 4px; border: 1px solid #000000;">Boite spéciale avec CSS</div>
